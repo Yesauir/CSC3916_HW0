@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawnmccarthy/week1.git"
+    "url": "git+https://github.com/Yesauir/CSC3916_HW0.git"
   },
-  "author": "Shawn McCarthy",
+  "author": "Matthew Nguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shawnmccarthy/week1/issues"
+    "url": "https://github.com/Yesauir/CSC3916_HW0/issues"
   },
-  "homepage": "https://github.com/shawnmccarthy/week1#readme",
+  "homepage": "https://github.com/Yesauir/CSC3916_HW0#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "minimist": "^1.2.0",
