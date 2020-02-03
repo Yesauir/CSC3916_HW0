@@ -1,0 +1,35 @@
+*/
+Temporary Headers{
+User-Agent: PostmanRuntime/7.22.0
+Accept: */* "Media type(s) that is/are acceptable for the response. See Content negotiation."
+Cache-Control: no-cache "Used to specify directives that must be obeyed by all caching mechanisms along the request-response chain"
+Postman-Token: 062306c9-6d06-47f7-adfb-4b26e3ec3f6b
+Host: www.googleapis.com "The domain name of the server (for virtual hosting), and the TCP port number on which the server is listening. The port number may be omitted if the port is the standard port for the service requested.
+                          Mandatory since HTTP/1.1. If the request is generated directly in HTTP/2, it should not be used."
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+}
+Headers{
+    Expires:Thu, 30 Jan 2020 00:36:50 GMT
+    Date:Thu, 30 Jan 2020 00:36:50 GMT "The date and time at which the message was originated (in "HTTP-date" format as defined by RFC 7231 Date/Time Formats)."
+    Cache-Control:private, max-age=0, must-revalidate, no-transform. "Used to specify directives that must be obeyed by all caching mechanisms along the request-response chain"
+    etag: \"iPPser6Mov75mJUb_EktR4oB1SI/8eP_0m7GR0L5Gsq5aFljvQwSCd4\"
+    vary: Origin, X-Origin
+    content-type: application/json; charset=UTF-8 "The Media type of the body of the request (used with POST and PUT requests)."
+    x-content-type-options: nosniff "The only defined value, "nosniff", prevents Internet Explorer from MIME-sniffing a response away from the declared content-type. This also applies to Google Chrome, when downloading extensions."
+    x-frame-options: SAMEORIGIN
+    x-xss-protection: 1; mode=block
+    content-length: 45127
+    server: GSE "name of the server" GOOGLE SERVLET ENGINE
+    alt-svc: quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000
+    "A server uses "Alt-Svc" header (meaning Alternative Services) to indicate that its resources can also be accessed at a different network location (host or port) or using a different protocol"
+
+    connection: close "Control options for the current connection and list of hop-by-hop request fields. Must not be used with HTTP/2."
+    Transfer-Encoding: chunked
+}
+requestHeader{
+Accept: application/json, text/plain, */* "Media type(s) that is/are acceptable for the response. See Content negotiation."
+User-agent: axios/0.18.0
+
+}
+/*
